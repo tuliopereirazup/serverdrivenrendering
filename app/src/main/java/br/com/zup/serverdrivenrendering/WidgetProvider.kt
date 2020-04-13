@@ -5,9 +5,9 @@ import br.com.zup.serverdrivenrendering.widget.layout.Vertical
 import br.com.zup.serverdrivenrendering.widget.ui.Button
 import br.com.zup.serverdrivenrendering.widget.ui.Text
 
-class MyWidget {
+class WidgetProvider {
 
-    fun create(): Widget {
+    fun provide(): Widget {
         return Vertical(
             children = listOf(
                 Text("Hello world"),
