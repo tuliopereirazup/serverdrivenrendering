@@ -10,8 +10,5 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
-        // TODO: DESERIALIZE JSON
-        // TODO: DO RENDERING
     }
 }
