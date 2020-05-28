@@ -2,7 +2,7 @@
 
 ### Esperado
 Para este desafio esperamos que você deserialize ou faça a renderização baseado em alguns objetos específicos. 
-Esperamos que você faça a deserizalição do JSON que está dentro do `JsonProvider` utilizando somente a estrutura de `JSONObject` e `JSONArray`.
+Esperamos que você faça a deserizalição do JSON que está dentro do `JsonProvider` utilizando somente a estrutura de `JSONObject` e `
 Esperamos que o JSON seja transformado na estrutura de objetos que já está criada na pasta widget.
 
 Logo após a deserialização, esperamos que você renderize os widgets em seus respectivos componentes Android.
